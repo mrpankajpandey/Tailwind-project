@@ -22,6 +22,8 @@ npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 ```
 
 ## Folder Structure
+
+```bash
 .
 ├── src/                # Source files
 │   ├── input.css       # Input CSS file
@@ -31,4 +33,5 @@ npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 ├── tailwind.config.js  # Tailwind CSS configuration
 └── README.md           # Project documentation
 
+```
 This README should now accurately reflect how to set up and run your Tailwind CSS project using `npx tailwindcss`. Let me know if you need further assistance!
